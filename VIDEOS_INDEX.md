@@ -59,7 +59,9 @@ Complete index of recent videos from the New Earth Fitness channel, organized by
 | 20,000 Sub Livestream - Sharing is Caring | 7:14 | 19K | Updates, Gratitude |
 | 10,000 Sub Livestream - Love and Gratitude | 4:31 | 11K | Updates, Gratitude |
 
-**See Also:** [Livestream Transcript Summary](LIVESTREAM_TRANSCRIPT_SUMMARY.md) for detailed insights from the Changeup Livestream
+**See Also:** 
+- [Livestream Transcript Summary](LIVESTREAM_TRANSCRIPT_SUMMARY.md) for detailed insights from the Changeup Livestream
+- [The Power Of Resolving Internal Conflicts - Complete Analysis](RESOLVING_INTERNAL_CONFLICTS_ANALYSIS.md) for deep insights on personal growth and health
 
 ---
 - ---
