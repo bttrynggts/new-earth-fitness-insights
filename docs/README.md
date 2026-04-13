@@ -8,38 +8,9 @@ A comprehensive collection of key insights and workout videos from the New Earth
 
 ---
 
-## 📂 Project Structure
+## Related Resources
 
-- **[/docs](docs/)** - Main project documentation & comprehensive [video catalog](#quick-links)
-- **[/videos](videos/)** - [Video indexes](#quick-links) and categorized lists
-- **[/transcripts](transcripts/)** - [Livestream transcripts](#quick-links) and summaries
-- **[/insights](insights/)** - [Analysis](#quick-links), [Q&A insights](#quick-links), and [deep-dive content](#quick-links)
-
----
-
-## Quick Links
-
-- **[📺 Full Catalog & Insights](docs/README.md)** - Complete video directory with training methods, nutrition, and personal development insights
-- **[📑 Video Index](videos/VIDEOS_INDEX.md)** - Organized by video length and category
-- **[🎙️ Livestream Transcripts](transcripts/LIVESTREAM_TRANSCRIPT_SUMMARY.md)** - Overview of livestream discussions
-- **[🤖 Q&A Insights](insights/YOUTUBE_ASK_INSIGHTS.md)** - AI-generated summaries from YouTube Ask feature
-- **[🔄 Internal Conflicts Analysis](insights/RESOLVING_INTERNAL_CONFLICTS_ANALYSIS.md)** - Deep dive into personal development
-
----
-
-## Content By Topic
-
-- **Fitness**: [Heavy Compound Movements](docs/README.md#heavy-compound-movements) | [Accessories & Isolation](docs/README.md#accessories--isolation-exercises) | [Training Philosophy](docs/README.md#training-methods--philosophy)
-- **Nutrition**: [Vegetarian/Vegan](docs/README.md#nutrition-topics) | [Fasting](docs/README.md#nutrition-topics) | [Supplements](docs/README.md#supplementation--health-products)
-- **Health**: [Immune System](docs/README.md#health--wellness) | [Water Quality](docs/README.md#health--wellness) | [Dental Health](docs/README.md#health--wellness)
-- **Personal Development**: [Loneliness](docs/README.md#mental--emotional-health) | [Heartbreak](docs/README.md#mental--emotional-health) | [Fear](docs/README.md#mental--emotional-health) | [Internal Conflicts](insights/RESOLVING_INTERNAL_CONFLICTS_ANALYSIS.md)
-# New Earth Fitness - Key Insights & Workout Videos
-
-A comprehensive collection of key insights and workout videos from the New Earth Fitness YouTube channel (@TheRealJungleGym). This repository organizes 257+ videos by category with detailed notes on fitness, health, and personal development topics.
-
-**Channel**: https://www.youtube.com/@TheRealJungleGym  
-**Subscribers**: 25.5K  
-**Channel Motto**: "Love God with all of your heart, mind, soul and strength and love your neighbor as yourself."
+👉 **[Full Video Index](../videos/VIDEOS_INDEX.md)** | **[AI Ask Insights](../insights/YOUTUBE_ASK_INSIGHTS.md)** | **[Internal Conflicts Analysis](../insights/RESOLVING_INTERNAL_CONFLICTS_ANALYSIS.md)** | **[Livestream Transcripts](../transcripts/LIVESTREAM_TRANSCRIPT_SUMMARY.md)**
 
 ---
 
@@ -49,7 +20,6 @@ A comprehensive collection of key insights and workout videos from the New Earth
 - [Health & Fitness Insights](#health--fitness-insights)
 - [Personal Development & Life Insights](#personal-development--life-insights)
 - [Training Methods & Techniques](#training-methods--techniques)
-- [AI](#ai)
 
 ---
 
@@ -252,15 +222,17 @@ The speaker argues that the loneliness epidemic is not a mental health crisis re
    - Duration: 17:39 | Views: 22K
    - Exploration: Understanding fear, its origins, and how to work with it productively
 
-4. **The Power Of Resolving Internal Conflicts**
+4. **[The Power Of Resolving Internal Conflicts](../insights/RESOLVING_INTERNAL_CONFLICTS_ANALYSIS.md)**
    - Duration: 32:39 | Views: 13K
    - Deep Insight: How internal contradictions and unresolved conflicts limit potential and wellbeing
+   - 👉 [Read full analysis](../insights/RESOLVING_INTERNAL_CONFLICTS_ANALYSIS.md)
 
 ### Personal Development Topics
 
-1. **Semen Retention - My Experience & Observations**
+1. **[Semen Retention - My Experience & Observations](../insights/YOUTUBE_ASK_INSIGHTS.md#video-1-semen-retention---my-experience--observations)**
    - Duration: 17:29 | Views: 24K
    - Controversial Topic: Personal and anecdotal observations on sexual energy conservation and vitality
+   - 👉 [See AI summary from YouTube Ask feature](../insights/YOUTUBE_ASK_INSIGHTS.md#video-1-semen-retention---my-experience--observations)
 
 2. **How To Upgrade Your DNA / Enhance Your Cellular Biology**
    - Duration: 23:38 | Views: 17K
@@ -289,15 +261,15 @@ The channel emphasizes:
 
 ## Content Categories Summary
 
-| Category | Video Count | Key Topics |
-|----------|-------------|-----------|
-| Workout Videos | 30+ | Compound movements, accessories, form demonstrations |
-| Training Advice | 15+ | Methods, philosophy, program design |
-| Nutrition | 8+ | Fasting, vegetarian diets, supplement strategies |
-| Health Topics | 10+ | Immune system, water quality, dental health |
-| Personal Development | 12+ | Loneliness, heartbreak, fear, internal conflicts |
-| Spirituality & Philosophy | 8+ | Discipline, purpose, growth mindset |
-| Experimental Videos | 20+ | Strength tests, competitions, "jungle style" experiments |
+| Category | Video Count | Key Topics | Link |
+|----------|-------------|-----------|------|
+| Workout Videos | 30+ | Compound movements, accessories, form demonstrations | [Video Index](../videos/VIDEOS_INDEX.md) |
+| Training Advice | 15+ | Methods, philosophy, program design | [This Page](#training-methods--techniques) |
+| Nutrition | 8+ | [Fasting](#nutrition-topics), [Vegetarian diets](#nutrition-topics), supplement strategies | [This Page](#nutrition-topics) |
+| Health Topics | 10+ | [Immune system](#health--wellness), water quality, dental health | [This Page](#health--wellness) |
+| Personal Development | 12+ | [Loneliness](#mental--emotional-health), heartbreak, fear, [internal conflicts](../insights/RESOLVING_INTERNAL_CONFLICTS_ANALYSIS.md) | [Analysis](../insights/RESOLVING_INTERNAL_CONFLICTS_ANALYSIS.md) |
+| Spirituality & Philosophy | 8+ | Discipline, purpose, [Nazarite training](#health--wellness), growth mindset | [This Page](#training-methods--philosophy) |
+| Experimental Videos | 20+ | Strength tests, competitions, "jungle style" experiments | [Video Index](../videos/VIDEOS_INDEX.md) |
 
 ---
 
