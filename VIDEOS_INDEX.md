@@ -51,6 +51,17 @@ Complete index of recent videos from the New Earth Fitness channel, organized by
     - - **Health & Wellness**: 10+ videos on immune system, dental health, water quality, and biohacking
       - - **Philosophy & Spirituality**: 8+ videos on discipline, purpose, and holistic health
        
-        - ---
+## Livestreams (2+ hours)
+
+| Title | Duration | Views | Category |
+|-------|----------|-------|----------|
+| Changeup Livestream - Updates / Health / Fitness / Life / Much Love | 2:46 | 3.9K | Health, Lifestyle |
+| 20,000 Sub Livestream - Sharing is Caring | 7:14 | 19K | Updates, Gratitude |
+| 10,000 Sub Livestream - Love and Gratitude | 4:31 | 11K | Updates, Gratitude |
+
+**See Also:** [Livestream Transcript Summary](LIVESTREAM_TRANSCRIPT_SUMMARY.md) for detailed insights from the Changeup Livestream
+
+---
+- ---
         **Total Videos**: 257+
         **Last Updated**: April 12, 2026
