@@ -11,6 +11,7 @@ A comprehensive collection of key insights and workout videos from the New Earth
 ## Table of Contents
 
 - [Workout Videos](#workout-videos)
+- - [Livestream Transcript Summary](LIVESTREAM_TRANSCRIPT_SUMMARY.md)
 - - [Health & Fitness Insights](#health--fitness-insights)
   - - [Personal Development & Life Insights](#personal-development--life-insights)
     - - [Training Methods & Techniques](#training-methods--techniques)
